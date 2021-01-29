@@ -1,16 +1,7 @@
 """
-A module use to work on specimen datasets.
-
+A module to simplify data wrangling using python.
+Mostly used to work on biological specimen data.
 The data manipulation is done using pandas. 
-
-Functions:
-1. Clean duplicates specimens from Specify datasets. 
-Useful for counting the numbers of specimens for a given
-ranges of catalog numbers. Specify by its nature will return 
-several numbers of lines based on the tissue types. This function
-can quickly clean it up.
-
-2. 
 """
 
 import os
